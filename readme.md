@@ -11,7 +11,7 @@ A simple yet functional weather application built using **HTML**, **CSS**, and *
 
 ## 📸 Screenshots
 
-<<<<<<< HEAD
+
 =======
 > ![Weather App Screenshots]
 > 
@@ -19,10 +19,7 @@ A simple yet functional weather application built using **HTML**, **CSS**, and *
 > ![Screenshot2](https://github.com/user-attachments/assets/cf174b4c-f405-4992-8e7a-a5696da1494a)
 > ![Screenshot3](https://github.com/user-attachments/assets/aa535f61-d3d4-4a41-abb2-a6115f87c586)
 
-  
 
-
->>>>>>> ad907df3537d3efe80796b54c66c41028d102f10
 ---
 
 ## 🔍 Features
