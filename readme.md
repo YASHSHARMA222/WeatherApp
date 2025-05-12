@@ -12,10 +12,12 @@ A simple yet functional weather application built using **HTML**, **CSS**, and *
 ## 📸 Screenshots
 
 > ![Weather App Screenshots]
+> 
 > ![Screenshot1](https://github.com/user-attachments/assets/68363818-aafa-41a4-a4ad-4dc1d0816230)
 > ![Screenshot2](https://github.com/user-attachments/assets/cf174b4c-f405-4992-8e7a-a5696da1494a)
-  ![Screenshot3](https://github.com/user-attachments/assets/aa535f61-d3d4-4a41-abb2-a6115f87c586)
+> ![Screenshot3](https://github.com/user-attachments/assets/aa535f61-d3d4-4a41-abb2-a6115f87c586)
 
+  
 
 
 ---
