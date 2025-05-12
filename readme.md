@@ -11,7 +11,7 @@ A simple yet functional weather application built using **HTML**, **CSS**, and *
 
 ## 📸 Screenshots
 
-> `./screenshot 1.png` > `./screenshot 2.png` > `./screenshot 3.png`
+> `./Screenshot 1.png` > `./Screenshot 2.png` > `./Screenshot 3.png`
 
 ---
 
